@@ -1,0 +1,49 @@
+[
+    {
+        "title":"Home",
+        "path":"/home_screen"
+    },
+    {
+        "title":"Product Detials",
+        "path":"/product_details_screen"
+    },
+    {
+        "title":"Cart",
+        "path":"/cart_screen"
+    },
+    {
+        "title":"Favorite",
+        "path":"/favorite_list_screen"
+    },
+    {
+        "title":"Blog",
+        "path":"/blog_screen"
+    },
+    {
+        "title":"Page",
+        "path":"/page_view_screen"
+    },
+    {
+        "title":"Product List",
+        "path":"/product_list_screen"
+    },
+    {
+        "title":"Search Screen",
+        "path":"/search_screen"
+    },
+    {
+        "title":"Contact US",
+        "path":"/contact_us_screen"
+    },
+    {
+        "title":"Custom Page",
+        "path":"/custom_page_screen"
+    },
+    {
+        "title":"Open Url",
+        "path":"/web_url_screen"
+    },
+    {
+        "title":"Other"
+    }
+]
